@@ -32,3 +32,10 @@ We made our project operational through Visual Studio Code, which enabled us to 
 ## Displaying the Result of the Sorting Algorithm
 
 ![3](https://github.com/harunsimsek1/algoritma-gorsellestiricisi/assets/72405540/e85198aa-dad5-4a76-9175-e604ccdc60e8)
+<br><br>
+
+🧰 Languages & Tools <br><br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"> &nbsp; &nbsp; 
+<img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code">
+
