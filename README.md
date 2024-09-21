@@ -38,5 +38,5 @@ We made our project operational through Visual Studio Code, which enabled us to 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"> &nbsp; &nbsp; 
 <img src="https://github.com/user-attachments/assets/7afd6646-6213-4c89-9282-5ec2ec02f660" width="50" height="50" alt="Visual Studio Code"> &nbsp; &nbsp;
-<img src="https://github.com/user-attachments/assets/b02c684a-2fa0-4474-a192-a70c46f30cfa" width="50" height="50" alt="Download">
+<img src="https://github.com/user-attachments/assets/b02c684a-2fa0-4474-a192-a70c46f30cfa" width="80" height="60" alt="Download">
 
