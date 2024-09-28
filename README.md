@@ -3,7 +3,7 @@
 The project involves designing a sorting algorithm program. The sorting algorithms (Insertion Sort, Bubble Sort, Merge Sort, Quick Sort) are visually implemented based on the selected data structure.
 
 ## DEVELOPMENT ENVIRONMENT
-In this project, we used the programming language Python for the first time. We wrote the code for specific sorting algorithms using Visual Studio Code, along with the interface code in the same environment. We chose Visual Studio Code because it offers code debugger support, rich code refactoring features, and speed. The Visual Studio Code development platform supports a wide range of application development features such as controls, graphics, data binding, and user input, allowing us to comfortably create a desktop application using GUI libraries.
+In this project, we used the programming language Python for the first time. We wrote the code for specific sorting algorithms using Visual Studio Code, along with the interface code in the same environment. We chose Visual Studio Code because it offers code debugger support, rich code refactoring features, and speed. The Visual Studio Code development platform supports a wide range of application development features such as controls, graphics, data binding, and user input, allowing us to comfortably create a desktop application using GUI libraries..
 
 ## DEPLOYMENT AND OPERATION OF THE PROJECT
 We made our project operational through Visual Studio Code, which enabled us to easily upload it to GitHub. The important aspect is that we used the Python programming language along with Tkinter, which is the Python wrapper for the Tk GUI toolkit. We wrote the code for the main panel and the bar panel of the sorting algorithms visualizer using its various widgets.
